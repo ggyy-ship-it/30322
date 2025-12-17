@@ -1,0 +1,2369 @@
+{
+  "planets": [
+    "Planet_0",
+    "Planet_1",
+    "Planet_2",
+    "Planet_3",
+    "Planet_4",
+    "Planet_5",
+    "Planet_6",
+    "Planet_7",
+    "Planet_8",
+    "Planet_9",
+    "Planet_10",
+    "Planet_11",
+    "Planet_12",
+    "Planet_13",
+    "Planet_14",
+    "Planet_15",
+    "Planet_16",
+    "Planet_17",
+    "Planet_18",
+    "Planet_19",
+    "Planet_20",
+    "Planet_21",
+    "Planet_22",
+    "Planet_23",
+    "Planet_24",
+    "Planet_25",
+    "Planet_26",
+    "Planet_27",
+    "Planet_28",
+    "Planet_29",
+    "Planet_30",
+    "Planet_31",
+    "Planet_32",
+    "Planet_33",
+    "Planet_34",
+    "Planet_35",
+    "Planet_36",
+    "Planet_37",
+    "Planet_38",
+    "Planet_39",
+    "Planet_40",
+    "Planet_41",
+    "Planet_42",
+    "Planet_43",
+    "Planet_44",
+    "Planet_45",
+    "Planet_46",
+    "Planet_47",
+    "Planet_48",
+    "Planet_49",
+    "Planet_50",
+    "Planet_51",
+    "Planet_52",
+    "Planet_53",
+    "Planet_54",
+    "Planet_55",
+    "Planet_56",
+    "Planet_57",
+    "Planet_58",
+    "Planet_59",
+    "Planet_60",
+    "Planet_61",
+    "Planet_62",
+    "Planet_63",
+    "Planet_64",
+    "Planet_65",
+    "Planet_66",
+    "Planet_67",
+    "Planet_68",
+    "Planet_69",
+    "Planet_70",
+    "Planet_71",
+    "Planet_72",
+    "Planet_73",
+    "Planet_74",
+    "Planet_75",
+    "Planet_76",
+    "Planet_77",
+    "Planet_78",
+    "Planet_79",
+    "Planet_80",
+    "Planet_81",
+    "Planet_82",
+    "Planet_83",
+    "Planet_84",
+    "Planet_85",
+    "Planet_86",
+    "Planet_87",
+    "Planet_88",
+    "Planet_89",
+    "Planet_90",
+    "Planet_91",
+    "Planet_92",
+    "Planet_93",
+    "Planet_94",
+    "Planet_95",
+    "Planet_96",
+    "Planet_97",
+    "Planet_98",
+    "Planet_99"
+  ],
+  "routes": [
+    {
+      "from": "Planet_9",
+      "to": "Planet_42",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_42",
+      "to": "Planet_62",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_76",
+      "to": "Planet_54",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_33",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_10",
+      "to": "Planet_23",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_50",
+      "to": "Planet_76",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_21",
+      "to": "Planet_71",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_31",
+      "to": "Planet_77",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_80",
+      "to": "Planet_65",
+      "fuel": 49
+    },
+    {
+      "from": "Planet_25",
+      "to": "Planet_81",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_64",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_19",
+      "to": "Planet_35",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_20",
+      "to": "Planet_40",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_94",
+      "to": "Planet_84",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_43",
+      "to": "Planet_77",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_76",
+      "to": "Planet_69",
+      "fuel": 1
+    },
+    {
+      "from": "Planet_19",
+      "to": "Planet_42",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_36",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_7",
+      "to": "Planet_6",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_56",
+      "to": "Planet_81",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_23",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_14",
+      "to": "Planet_56",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_35",
+      "to": "Planet_39",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_81",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_55",
+      "to": "Planet_70",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_75",
+      "to": "Planet_23",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_29",
+      "fuel": 48
+    },
+    {
+      "from": "Planet_6",
+      "to": "Planet_1",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_73",
+      "to": "Planet_35",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_29",
+      "to": "Planet_80",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_6",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_64",
+      "to": "Planet_40",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_92",
+      "to": "Planet_60",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_89",
+      "to": "Planet_71",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_55",
+      "to": "Planet_47",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_57",
+      "to": "Planet_68",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_64",
+      "to": "Planet_31",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_40",
+      "to": "Planet_54",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_74",
+      "to": "Planet_67",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_23",
+      "to": "Planet_90",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_39",
+      "to": "Planet_25",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_74",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_14",
+      "to": "Planet_32",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_2",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_17",
+      "to": "Planet_37",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_55",
+      "to": "Planet_10",
+      "fuel": 11
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_94",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_63",
+      "to": "Planet_11",
+      "fuel": 49
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_79",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_91",
+      "to": "Planet_12",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_74",
+      "to": "Planet_30",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_72",
+      "to": "Planet_39",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_44",
+      "to": "Planet_4",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_53",
+      "to": "Planet_95",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_67",
+      "to": "Planet_42",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_7",
+      "to": "Planet_72",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_19",
+      "to": "Planet_8",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_56",
+      "to": "Planet_67",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_53",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_84",
+      "to": "Planet_2",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_62",
+      "to": "Planet_93",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_46",
+      "to": "Planet_9",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_53",
+      "to": "Planet_55",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_22",
+      "to": "Planet_43",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_29",
+      "to": "Planet_24",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_40",
+      "to": "Planet_69",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_96",
+      "to": "Planet_79",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_53",
+      "to": "Planet_31",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_45",
+      "to": "Planet_18",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_15",
+      "to": "Planet_96",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_14",
+      "to": "Planet_86",
+      "fuel": 1
+    },
+    {
+      "from": "Planet_86",
+      "to": "Planet_36",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_43",
+      "to": "Planet_99",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_5",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_88",
+      "fuel": 1
+    },
+    {
+      "from": "Planet_99",
+      "to": "Planet_66",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_6",
+      "to": "Planet_75",
+      "fuel": 49
+    },
+    {
+      "from": "Planet_81",
+      "to": "Planet_92",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_63",
+      "to": "Planet_74",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_6",
+      "to": "Planet_12",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_74",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_53",
+      "to": "Planet_7",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_83",
+      "to": "Planet_45",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_37",
+      "to": "Planet_53",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_89",
+      "to": "Planet_44",
+      "fuel": 48
+    },
+    {
+      "from": "Planet_49",
+      "to": "Planet_39",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_99",
+      "to": "Planet_15",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_31",
+      "to": "Planet_87",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_93",
+      "to": "Planet_12",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_47",
+      "to": "Planet_45",
+      "fuel": 28
+    },
+    {
+      "from": "Planet_67",
+      "to": "Planet_78",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_78",
+      "to": "Planet_77",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_65",
+      "to": "Planet_96",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_66",
+      "to": "Planet_34",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_93",
+      "to": "Planet_79",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_12",
+      "to": "Planet_53",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_12",
+      "to": "Planet_46",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_98",
+      "to": "Planet_17",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_62",
+      "to": "Planet_83",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_29",
+      "to": "Planet_61",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_67",
+      "to": "Planet_73",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_56",
+      "to": "Planet_28",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_54",
+      "to": "Planet_98",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_46",
+      "to": "Planet_29",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_20",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_80",
+      "to": "Planet_90",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_42",
+      "to": "Planet_66",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_62",
+      "to": "Planet_46",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_29",
+      "to": "Planet_8",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_80",
+      "to": "Planet_70",
+      "fuel": 6
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_43",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_55",
+      "to": "Planet_45",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_48",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_97",
+      "to": "Planet_19",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_6",
+      "fuel": 9
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_12",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_11",
+      "to": "Planet_92",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_66",
+      "to": "Planet_95",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_52",
+      "to": "Planet_48",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_17",
+      "to": "Planet_25",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_14",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_28",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_1",
+      "to": "Planet_19",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_78",
+      "to": "Planet_62",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_74",
+      "to": "Planet_91",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_60",
+      "to": "Planet_77",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_26",
+      "to": "Planet_66",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_55",
+      "to": "Planet_99",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_89",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_54",
+      "to": "Planet_87",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_16",
+      "to": "Planet_81",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_40",
+      "to": "Planet_76",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_74",
+      "to": "Planet_26",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_63",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_91",
+      "to": "Planet_95",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_27",
+      "to": "Planet_64",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_20",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_17",
+      "to": "Planet_34",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_16",
+      "to": "Planet_58",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_27",
+      "to": "Planet_71",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_86",
+      "to": "Planet_23",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_11",
+      "to": "Planet_94",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_45",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_59",
+      "to": "Planet_29",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_1",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_39",
+      "to": "Planet_81",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_63",
+      "fuel": 11
+    },
+    {
+      "from": "Planet_96",
+      "to": "Planet_20",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_99",
+      "to": "Planet_5",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_28",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_11",
+      "to": "Planet_48",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_25",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_51",
+      "to": "Planet_62",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_52",
+      "to": "Planet_23",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_56",
+      "to": "Planet_36",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_75",
+      "to": "Planet_61",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_28",
+      "to": "Planet_93",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_65",
+      "to": "Planet_22",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_57",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_28",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_12",
+      "to": "Planet_11",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_53",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_10",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_35",
+      "to": "Planet_4",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_21",
+      "to": "Planet_34",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_18",
+      "to": "Planet_24",
+      "fuel": 22
+    },
+    {
+      "from": "Planet_19",
+      "to": "Planet_36",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_85",
+      "to": "Planet_18",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_50",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_57",
+      "to": "Planet_75",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_46",
+      "to": "Planet_81",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_96",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_41",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_2",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_37",
+      "to": "Planet_9",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_17",
+      "to": "Planet_10",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_92",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_25",
+      "to": "Planet_7",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_13",
+      "to": "Planet_58",
+      "fuel": 9
+    },
+    {
+      "from": "Planet_80",
+      "to": "Planet_97",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_66",
+      "to": "Planet_97",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_18",
+      "fuel": 46
+    },
+    {
+      "from": "Planet_68",
+      "to": "Planet_49",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_36",
+      "to": "Planet_44",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_16",
+      "to": "Planet_50",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_5",
+      "to": "Planet_95",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_53",
+      "to": "Planet_22",
+      "fuel": 48
+    },
+    {
+      "from": "Planet_18",
+      "to": "Planet_75",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_69",
+      "to": "Planet_90",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_97",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_7",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_69",
+      "to": "Planet_1",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_60",
+      "to": "Planet_78",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_76",
+      "to": "Planet_2",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_39",
+      "to": "Planet_63",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_64",
+      "to": "Planet_80",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_11",
+      "to": "Planet_20",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_31",
+      "to": "Planet_62",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_75",
+      "to": "Planet_3",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_28",
+      "to": "Planet_86",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_61",
+      "to": "Planet_26",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_63",
+      "to": "Planet_85",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_6",
+      "to": "Planet_80",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_88",
+      "to": "Planet_77",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_47",
+      "to": "Planet_5",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_53",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_15",
+      "to": "Planet_75",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_30",
+      "to": "Planet_99",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_44",
+      "to": "Planet_33",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_62",
+      "to": "Planet_91",
+      "fuel": 15
+    },
+    {
+      "from": "Planet_27",
+      "to": "Planet_70",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_4",
+      "to": "Planet_97",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_61",
+      "to": "Planet_72",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_69",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_7",
+      "to": "Planet_68",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_58",
+      "to": "Planet_29",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_41",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_88",
+      "to": "Planet_28",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_36",
+      "to": "Planet_49",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_48",
+      "to": "Planet_10",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_77",
+      "to": "Planet_99",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_26",
+      "to": "Planet_11",
+      "fuel": 46
+    },
+    {
+      "from": "Planet_22",
+      "to": "Planet_3",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_89",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_22",
+      "to": "Planet_98",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_73",
+      "to": "Planet_26",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_90",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_53",
+      "to": "Planet_93",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_15",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_86",
+      "to": "Planet_13",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_20",
+      "to": "Planet_71",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_34",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_71",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_93",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_20",
+      "to": "Planet_16",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_89",
+      "to": "Planet_75",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_10",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_18",
+      "to": "Planet_30",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_16",
+      "to": "Planet_35",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_43",
+      "to": "Planet_65",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_38",
+      "to": "Planet_43",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_82",
+      "to": "Planet_37",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_67",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_42",
+      "to": "Planet_36",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_85",
+      "to": "Planet_27",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_79",
+      "to": "Planet_62",
+      "fuel": 15
+    },
+    {
+      "from": "Planet_77",
+      "to": "Planet_49",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_97",
+      "to": "Planet_82",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_61",
+      "to": "Planet_39",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_21",
+      "to": "Planet_62",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_30",
+      "to": "Planet_44",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_4",
+      "to": "Planet_91",
+      "fuel": 35
+    },
+    {
+      "from": "Planet_5",
+      "to": "Planet_19",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_48",
+      "to": "Planet_43",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_31",
+      "to": "Planet_93",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_66",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_43",
+      "to": "Planet_64",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_21",
+      "to": "Planet_36",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_77",
+      "to": "Planet_11",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_12",
+      "to": "Planet_29",
+      "fuel": 48
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_9",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_6",
+      "fuel": 11
+    },
+    {
+      "from": "Planet_52",
+      "to": "Planet_89",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_97",
+      "to": "Planet_22",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_30",
+      "to": "Planet_28",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_86",
+      "to": "Planet_9",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_38",
+      "to": "Planet_45",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_73",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_82",
+      "to": "Planet_31",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_55",
+      "to": "Planet_37",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_79",
+      "to": "Planet_50",
+      "fuel": 46
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_88",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_92",
+      "to": "Planet_83",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_91",
+      "to": "Planet_20",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_72",
+      "to": "Planet_60",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_73",
+      "to": "Planet_19",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_20",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_64",
+      "to": "Planet_23",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_79",
+      "to": "Planet_66",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_14",
+      "to": "Planet_98",
+      "fuel": 22
+    },
+    {
+      "from": "Planet_80",
+      "to": "Planet_73",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_63",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_93",
+      "to": "Planet_7",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_30",
+      "to": "Planet_84",
+      "fuel": 49
+    },
+    {
+      "from": "Planet_74",
+      "to": "Planet_14",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_25",
+      "to": "Planet_65",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_7",
+      "to": "Planet_11",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_39",
+      "to": "Planet_28",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_40",
+      "to": "Planet_74",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_13",
+      "to": "Planet_83",
+      "fuel": 15
+    },
+    {
+      "from": "Planet_14",
+      "to": "Planet_67",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_82",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_75",
+      "to": "Planet_94",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_21",
+      "to": "Planet_17",
+      "fuel": 6
+    },
+    {
+      "from": "Planet_26",
+      "to": "Planet_41",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_50",
+      "to": "Planet_71",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_94",
+      "to": "Planet_11",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_23",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_99",
+      "to": "Planet_47",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_39",
+      "to": "Planet_88",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_31",
+      "to": "Planet_47",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_22",
+      "to": "Planet_40",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_81",
+      "to": "Planet_74",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_4",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_83",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_52",
+      "to": "Planet_98",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_72",
+      "to": "Planet_82",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_82",
+      "to": "Planet_4",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_96",
+      "to": "Planet_62",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_92",
+      "to": "Planet_25",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_38",
+      "fuel": 15
+    },
+    {
+      "from": "Planet_51",
+      "to": "Planet_67",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_51",
+      "to": "Planet_20",
+      "fuel": 1
+    },
+    {
+      "from": "Planet_6",
+      "to": "Planet_85",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_59",
+      "to": "Planet_41",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_82",
+      "to": "Planet_29",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_74",
+      "to": "Planet_40",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_47",
+      "to": "Planet_14",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_35",
+      "to": "Planet_32",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_46",
+      "to": "Planet_32",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_64",
+      "to": "Planet_29",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_49",
+      "to": "Planet_2",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_82",
+      "to": "Planet_30",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_54",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_1",
+      "to": "Planet_66",
+      "fuel": 1
+    },
+    {
+      "from": "Planet_12",
+      "to": "Planet_56",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_59",
+      "to": "Planet_77",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_27",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_11",
+      "to": "Planet_52",
+      "fuel": 43
+    },
+    {
+      "from": "Planet_19",
+      "to": "Planet_86",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_61",
+      "to": "Planet_40",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_88",
+      "to": "Planet_8",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_82",
+      "to": "Planet_3",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_7",
+      "to": "Planet_73",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_21",
+      "fuel": 39
+    },
+    {
+      "from": "Planet_14",
+      "to": "Planet_60",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_18",
+      "to": "Planet_4",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_74",
+      "fuel": 49
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_5",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_40",
+      "to": "Planet_49",
+      "fuel": 6
+    },
+    {
+      "from": "Planet_38",
+      "to": "Planet_19",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_20",
+      "to": "Planet_86",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_34",
+      "to": "Planet_67",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_78",
+      "to": "Planet_3",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_58",
+      "to": "Planet_46",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_86",
+      "to": "Planet_40",
+      "fuel": 28
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_95",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_25",
+      "to": "Planet_28",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_90",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_18",
+      "fuel": 9
+    },
+    {
+      "from": "Planet_28",
+      "to": "Planet_37",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_1",
+      "to": "Planet_55",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_63",
+      "to": "Planet_4",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_50",
+      "to": "Planet_45",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_58",
+      "to": "Planet_65",
+      "fuel": 9
+    },
+    {
+      "from": "Planet_73",
+      "to": "Planet_28",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_8",
+      "to": "Planet_45",
+      "fuel": 5
+    },
+    {
+      "from": "Planet_94",
+      "to": "Planet_21",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_13",
+      "to": "Planet_12",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_83",
+      "to": "Planet_21",
+      "fuel": 15
+    },
+    {
+      "from": "Planet_66",
+      "to": "Planet_18",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_59",
+      "to": "Planet_10",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_50",
+      "to": "Planet_35",
+      "fuel": 6
+    },
+    {
+      "from": "Planet_16",
+      "to": "Planet_89",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_68",
+      "to": "Planet_59",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_85",
+      "to": "Planet_65",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_98",
+      "to": "Planet_61",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_37",
+      "to": "Planet_45",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_72",
+      "to": "Planet_36",
+      "fuel": 23
+    },
+    {
+      "from": "Planet_56",
+      "to": "Planet_71",
+      "fuel": 37
+    },
+    {
+      "from": "Planet_5",
+      "to": "Planet_24",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_94",
+      "to": "Planet_29",
+      "fuel": 36
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_2",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_68",
+      "fuel": 28
+    },
+    {
+      "from": "Planet_98",
+      "to": "Planet_56",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_62",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_83",
+      "to": "Planet_18",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_99",
+      "to": "Planet_29",
+      "fuel": 48
+    },
+    {
+      "from": "Planet_18",
+      "to": "Planet_81",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_95",
+      "to": "Planet_16",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_83",
+      "to": "Planet_71",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_22",
+      "to": "Planet_12",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_5",
+      "to": "Planet_80",
+      "fuel": 46
+    },
+    {
+      "from": "Planet_89",
+      "to": "Planet_0",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_71",
+      "to": "Planet_3",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_20",
+      "to": "Planet_13",
+      "fuel": 9
+    },
+    {
+      "from": "Planet_40",
+      "to": "Planet_57",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_79",
+      "to": "Planet_73",
+      "fuel": 8
+    },
+    {
+      "from": "Planet_5",
+      "to": "Planet_13",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_21",
+      "to": "Planet_39",
+      "fuel": 40
+    },
+    {
+      "from": "Planet_47",
+      "to": "Planet_62",
+      "fuel": 34
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_40",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_4",
+      "to": "Planet_1",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_98",
+      "to": "Planet_69",
+      "fuel": 28
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_30",
+      "fuel": 20
+    },
+    {
+      "from": "Planet_80",
+      "to": "Planet_59",
+      "fuel": 42
+    },
+    {
+      "from": "Planet_33",
+      "to": "Planet_16",
+      "fuel": 28
+    },
+    {
+      "from": "Planet_86",
+      "to": "Planet_41",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_24",
+      "to": "Planet_49",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_10",
+      "to": "Planet_3",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_41",
+      "to": "Planet_14",
+      "fuel": 45
+    },
+    {
+      "from": "Planet_63",
+      "to": "Planet_54",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_25",
+      "to": "Planet_83",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_68",
+      "fuel": 15
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_80",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_0",
+      "to": "Planet_88",
+      "fuel": 32
+    },
+    {
+      "from": "Planet_58",
+      "to": "Planet_73",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_45",
+      "to": "Planet_40",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_5",
+      "to": "Planet_98",
+      "fuel": 3
+    },
+    {
+      "from": "Planet_47",
+      "to": "Planet_52",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_73",
+      "to": "Planet_16",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_65",
+      "to": "Planet_50",
+      "fuel": 21
+    },
+    {
+      "from": "Planet_61",
+      "to": "Planet_6",
+      "fuel": 38
+    },
+    {
+      "from": "Planet_2",
+      "to": "Planet_6",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_43",
+      "to": "Planet_35",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_90",
+      "to": "Planet_88",
+      "fuel": 1
+    },
+    {
+      "from": "Planet_69",
+      "to": "Planet_38",
+      "fuel": 33
+    },
+    {
+      "from": "Planet_98",
+      "to": "Planet_53",
+      "fuel": 41
+    },
+    {
+      "from": "Planet_70",
+      "to": "Planet_89",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_7",
+      "to": "Planet_41",
+      "fuel": 7
+    },
+    {
+      "from": "Planet_67",
+      "to": "Planet_15",
+      "fuel": 50
+    },
+    {
+      "from": "Planet_1",
+      "to": "Planet_99",
+      "fuel": 6
+    },
+    {
+      "from": "Planet_25",
+      "to": "Planet_75",
+      "fuel": 2
+    },
+    {
+      "from": "Planet_49",
+      "to": "Planet_30",
+      "fuel": 10
+    },
+    {
+      "from": "Planet_93",
+      "to": "Planet_24",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_36",
+      "to": "Planet_38",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_32",
+      "to": "Planet_88",
+      "fuel": 30
+    },
+    {
+      "from": "Planet_96",
+      "to": "Planet_45",
+      "fuel": 19
+    },
+    {
+      "from": "Planet_30",
+      "to": "Planet_62",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_87",
+      "to": "Planet_52",
+      "fuel": 4
+    },
+    {
+      "from": "Planet_16",
+      "to": "Planet_61",
+      "fuel": 12
+    },
+    {
+      "from": "Planet_60",
+      "to": "Planet_93",
+      "fuel": 44
+    },
+    {
+      "from": "Planet_36",
+      "to": "Planet_21",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_66",
+      "to": "Planet_96",
+      "fuel": 25
+    },
+    {
+      "from": "Planet_2",
+      "to": "Planet_67",
+      "fuel": 29
+    },
+    {
+      "from": "Planet_69",
+      "to": "Planet_78",
+      "fuel": 31
+    },
+    {
+      "from": "Planet_68",
+      "to": "Planet_50",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_83",
+      "to": "Planet_6",
+      "fuel": 27
+    },
+    {
+      "from": "Planet_29",
+      "to": "Planet_96",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_9",
+      "to": "Planet_16",
+      "fuel": 24
+    },
+    {
+      "from": "Planet_77",
+      "to": "Planet_5",
+      "fuel": 16
+    },
+    {
+      "from": "Planet_18",
+      "to": "Planet_12",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_92",
+      "to": "Planet_10",
+      "fuel": 17
+    },
+    {
+      "from": "Planet_99",
+      "to": "Planet_28",
+      "fuel": 9
+    },
+    {
+      "from": "Planet_23",
+      "to": "Planet_78",
+      "fuel": 13
+    },
+    {
+      "from": "Planet_98",
+      "to": "Planet_67",
+      "fuel": 47
+    },
+    {
+      "from": "Planet_78",
+      "to": "Planet_53",
+      "fuel": 14
+    },
+    {
+      "from": "Planet_83",
+      "to": "Planet_16",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_39",
+      "to": "Planet_27",
+      "fuel": 18
+    },
+    {
+      "from": "Planet_38",
+      "to": "Planet_35",
+      "fuel": 48
+    },
+    {
+      "from": "Planet_13",
+      "to": "Planet_91",
+      "fuel": 26
+    },
+    {
+      "from": "Planet_56",
+      "to": "Planet_65",
+      "fuel": 32
+    }
+  ],
+  "meta": {
+    "generated_at": "2025-12-10 15:59:30.412394"
+  }
+}
